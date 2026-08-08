@@ -38,7 +38,7 @@ control, so mounting both does not double the API calls.
 ## Install
 
 ```sh
-bb plugin install git:https://github.com/YHTerrance/bb-plugin-usage.git@main
+bb plugin install git:https://github.com/yhterrance/bb-plugin-usage.git@main
 ```
 
 On a git install BB runs npm and builds both bundles itself, so `dist/` is
